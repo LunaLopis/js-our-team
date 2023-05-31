@@ -1,4 +1,11 @@
-
+1. creo array di oggetti per i membri del team.
+2. inserisco le info nome ruolo foto.
+2.1 consolelog 
+3. ciclo for per stampare le cards.
+4. contenitore html da richiamare prima del ciclo for
+5. stampare card nel container alla fine del ciclo for.
+6. bootstrap
+7. regole stile css.
 
 
 
