@@ -39,9 +39,9 @@ let container = document.getElementById('container-cards');
 for (let i = 0; i < team.length; i++) {
     let info_card = team[i];
     console.log(info_card);
-    let card = `<div class= "card">
+    let card = `<div class= "card card-style">
 <img src="./img/${info_card.image}">
-<p>${info_card.nome}</p>
+<p class="nome">${info_card.nome}</p>
 <p>${info_card.lavoro}</p>
 </div>`
     container.innerHTML += card;

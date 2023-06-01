@@ -1,4 +1,21 @@
+header {
+    padding-top: 20px;   
+}
+.subtitle {
+margin-top: 30px;
+}
+main {
+    padding-top: 50px;
+}
 
-.card {
-    border: 1px solid black;
+.card-style {
+    margin: 20px;
+    border: 1px solid lightgrey;
+
+    width: calc(100% / 3 - 40px);
+}
+
+.nome {
+    font-weight: 900;
+    font-size: 15px;
 }
